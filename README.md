@@ -21,3 +21,5 @@ Some Intro! Some Intro!
 ## Conclusion
 
 ## How you can contribute
+
+from browser
