@@ -28,8 +28,9 @@ from browser
 from browser3
 
 
-<<<<<<< HEAD
-Agregado al final
-=======
 Agregado desde browser
->>>>>>> e1012bc1573e769d23492f6509963029ced5209d
+<<<<<<< HEAD
+Ultimo agregado desde explorador
+=======
+Ultimo agregado desde github web
+>>>>>>> bda83681731b5cc8502838329a0e73109929256a
